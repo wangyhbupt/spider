@@ -4,7 +4,7 @@ import sys
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-github3
+github4
 ##??
 #检查比赛结束的间隔
 CheckMatchEndInterval = 300
